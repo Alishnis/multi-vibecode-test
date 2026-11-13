@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "team-contract": {
+      "command": "python3",
+      "args": [
+        "${CLAUDE_PROJECT_DIR:-.}/coord/mcp/server.py"
+      ]
+    }
+  }
+}
